@@ -1,0 +1,24 @@
+﻿domain,item,item_wording,score_1_7,rationale,evidence_locator
+1,1,The overall objective(s) of the guideline is (are) specifically described.,6,摘要与前言明确目标：明确SCS治疗DF的适应证、禁忌证、操作规范、疗效评估及随访计划，提升保肢率与生存质量；目标具体。未量化目标指标故不给7。,摘要@0; 前言@~2500 '旨在明确SCS治疗的适应证、禁忌证、操作规范、疗效评估及随访计划'
+1,2,The health question(s) covered by the guideline is (are) specifically described.,6,1.4节说明提出28个关键临床问题并结构化为PICO；正文分节覆盖血供/疼痛/创面/术前/技术/随访。未列出28问的完整清单，故6。,1.4@~3100 '最终筛选出本共识需解决的28个关键临床问题'
+1,3,"The population (patients, public, etc.) to whom the guideline is meant to apply is specifically described.",6,1.3节明确目标人群为DF患者尤其合并神经病理性疼痛/缺血性或难治性溃疡的成年患者；推荐1-6各有具体人群限定。未描述排除人群全貌，故6。,1.3@~3060; 推荐1@6116; 推荐2@6532; 推荐3@~6900
+2,4,The guideline development group includes individuals from all relevant professional groups.,6,1.2节列55名专家涵盖内分泌、血管外科、疼痛、神经外科、康复、放射、循证医学与方法学；名单列至单位。未见患者代表，故6。,1.2@~2870 '涵盖内分泌科、血管外科、疼痛科、神经外科、康复医学科、放射科、循证医学与方法学'
+2,5,"The views and preferences of the target population (patients, public, etc.) have been sought.",1,全文无患者/公众观点征询的任何描述；'患者意愿'仅出现在推荐强度C的通用定义中，非本共识实际征询。AGREE II规则：无相关信息给1。,全文0处'价值观/偏好'；'患者意愿'仅@4612为等级定义
+2,6,The target users of the guideline are clearly defined.,7,1.3节明确适用各级医疗机构内分泌科、血管外科、疼痛科、康复科等相关学科临床工作者，使用者清晰。,1.3@~3060 '适用于各级医疗机构内分泌科、血管外科、疼痛科、康复科等相关学科的临床工作者'
+3,7,Systematic methods were used to search for evidence.,5,1.5节报告数据库CNKI/万方/CBM/PubMed/Embase/Cochrane、时间至2025-05-31、中英文检索词、语言与人类限定——系统检索要素齐；但未给出完整检索式/数据库各自命中数、未报告检索日期与更新策略细节，故5。,1.5@~3450 '检索数据库包括...检索时间范围为建库至2025年5月31日'
+3,8,The criteria for selecting the evidence are clearly described.,6,1.5节明确纳入RCT/前瞻队列/病例对照/多中心观察/系统评价/Meta，排除个案/动物/体外/综述/评论/信件/预印本——纳排标准清楚；未逐条说明理由，故6。,1.5@~3700 '纳入文献类型限定为RCT...排除个案报道、动物实验...'
+3,9,The strengths and limitations of the body of evidence are clearly described.,3,1.2节称按GRADE对证据质量评级，推荐1-6标注证据等级(高/中)；但全文未给出各结局的证据profile、升级降级因素或证据体优势与局限的具体描述。有等级标签而无证据体论述，故3。,1.2@~2950 '严格遵循GRADE核心原则对证据质量进行评级'; 6条推荐附'证据等级:高/中'
+3,10,The methods for formulating the recommendations are clearly described.,4,1.4报告德尔菲法+Likert5分筛选28问、结构化PICO；1.6说明采用USPSTF净获益证据分级与A/B/C/D/I推荐强度。但推荐如何从证据到强度的具体共识规则(如投票阈值、 consensus定义)未报告，故4。,1.4@~3200; 1.6@~3900 '将净获益证据分为高、中、低...推荐强度分为A、B、C、D、I'
+3,11,"The health benefits, side effects and risks have been considered in formulating the recommendations.",4,4.3有适应证与禁忌证章节，正文提及不良反应/风险(如硬膜下血肿在引用文献层面)，但推荐1-6本身未逐条呈现获益-危害权衡的考量，故4。,4.3@~7600 '适应证与禁忌证'; 需人工核对禁忌证章节篇幅
+3,12,There is an explicit link between the recommendations and the supporting evidence.,3,每条推荐附编号引文(推荐1[24-30]、2[31-36]、3[37-41]、6[46-47]，推荐4/5无编号引文)；但已核实推荐2的相邻引文[31-36]按题名多为非DF/非SCS，且5条核心数字声明的唯一引文[3]经全文核实不含该数字亦不提SCS——链接存在但精确对应性存疑。评分反映'链接明确程度'而非证据正确性，故3。,推荐1@6116; 推荐2@6532; 推荐3@~6900; 推荐4/5无引文; ref3_fulltext_claim_audit_2026-11-18.md
+3,13,The guideline has been externally reviewed by experts prior to its publication.,4,1.2节提到工作组含'外审专家组'，表明设置了外审环节；但未报告外审如何执行、外部专家是否独立于制订组、意见如何处理，故4。,1.2@~2880 '推荐意见共识组及外审专家组共55名专家组成'
+3,14,A procedure for updating the guideline is provided.,1,全文'更新'0命中，未报告任何更新/修订程序或复审周期。AGREE II规则：无信息给1。,全文0处'更新'
+4,15,The recommendations are specific and unambiguous.,5,6条推荐有明确人群/干预/阈值(如VAS≥5、面积缩小<30%、TcPO2<40mmHg、3-7天测试、VAS降≥50%)，较具体；但推荐1'改善肢体血供'、推荐4的操作性描述仍偏笼统，故5。,推荐2@6532 'VAS仍≥5分'; 推荐3@~6900 '面积缩小<30%且TcPO2<40mmHg'
+4,16,The different options for management of the condition or health issue are clearly presented.,4,共识聚焦SCS单一技术，1.4提及临床问题比较但正文未系统呈现SCS与腔内治疗/截肢/常规创面护理等替代方案的综合比较；适应证中提及不耐受腔内治疗，故4。,推荐1@6116 '不耐受或不愿接受血管腔内手术'; 4.3适应证@~7600
+4,17,Key recommendations are easily identifiable.,7,6条推荐以【推荐意见1-6】醒目标注并附证据等级/推荐强度，易于识别。,推荐意见1-6 @6116/6532/6900/.../9760
+5,18,The guideline describes facilitators and barriers to its application.,2,1.3节描述适用机构与科室(可视为促进因素)，但全文无实施障碍/促进因素的系统描述；'可行性'仅出现在术后X线可行等临床操作语境。故2。,1.3@~3060
+5,19,The guideline provides advice and/or tools on how the recommendations can be put into practice.,5,正文详细给出术前评估、术中电极植入与参数设置、术后随访(3/6月)及监测指标(VAS/溃疡面积/保肢率/SF-36/TcPO2)，实施建议具体；但无独立工具/流程图/核查表，故5。,5治疗策略@~8100; 6.5随访@~9700
+5,20,The potential resource implications of applying the recommendations have been considered.,1,全文'成本/费用/资源/经济'0命中，仅前言提及'社会医疗负担'作为背景。未评估应用SCS的资源影响。故1。,全文0处'成本/费用/资源'；'负担'@~2400为背景描述
+5,21,The guideline presents monitoring and/or auditing criteria.,6,6.5节提出以VAS、溃疡面积、保肢率为核心随访指标并建立标准化数据记录体系，另有6.5.2影像学复查(X线/DSA)时间表，监测标准较明确；未明确审计(audit)机制，故6。,推荐6@~9760; 6.5.2@~9850
+6,22,The views of the funding body have not influenced the content of the guideline.,4,首页报告基金项目(辽宁省科技计划联合计划重点研发项目2025JH2/101800343)，但未说明资助方在制订/传播中的角色，也未声明其观点未影响内容——无法据报告确认独立性，给中间分4(非1，因资助来源已披露；非7，因无角色与独立性说明)。,基金@1842 '辽宁省科技计划联合计划重点研发项目(2025JH2/101800343)'
+6,23,Competing interests of guideline development group members have been recorded and addressed.,5,1.2节称所有成员签署利益冲突声明，文末'利益冲突:专家组所有成员均声明不存在利益冲突'——已记录并声明无冲突；但未说明声明如何评估/管理、公众如何获取，故5。,1.2@~3044; 文末@12760 '专家组所有成员均声明不存在利益冲突'
