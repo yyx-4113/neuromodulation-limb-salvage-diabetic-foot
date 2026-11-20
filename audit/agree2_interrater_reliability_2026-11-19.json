@@ -1,0 +1,67 @@
+{
+  "status": "COMPUTED",
+  "date": "2026-11-19",
+  "n_items": 23,
+  "percent_exact_agreement_pct": 39.1,
+  "cohen_kappa_unweighted": 0.258,
+  "cohen_kappa_linear_weighted": 0.651,
+  "ICC_2_1_absolute_agreement": 0.853,
+  "ICC_2_1_95CI": [
+    0.663,
+    0.941
+  ],
+  "ICC_2_1_CI_method": "nonparametric bootstrap, 5000 resamples, seed=20261119, two-way formula",
+  "domains": {
+    "1": {
+      "items": 3,
+      "appraiser1_pct": 83.3,
+      "appraiser2_pct": 72.2,
+      "absolute_gap_pct": 11.1
+    },
+    "2": {
+      "items": 3,
+      "appraiser1_pct": 61.1,
+      "appraiser2_pct": 55.6,
+      "absolute_gap_pct": 5.5
+    },
+    "3": {
+      "items": 8,
+      "appraiser1_pct": 45.8,
+      "appraiser2_pct": 47.9,
+      "absolute_gap_pct": 2.1
+    },
+    "4": {
+      "items": 3,
+      "appraiser1_pct": 72.2,
+      "appraiser2_pct": 66.7,
+      "absolute_gap_pct": 5.5
+    },
+    "5": {
+      "items": 4,
+      "appraiser1_pct": 41.7,
+      "appraiser2_pct": 37.5,
+      "absolute_gap_pct": 4.2
+    },
+    "6": {
+      "items": 2,
+      "appraiser1_pct": 58.3,
+      "appraiser2_pct": 33.3,
+      "absolute_gap_pct": 25.0
+    }
+  },
+  "disagreement_abs_ge_2": [
+    {
+      "item": "2",
+      "appraiser1": 6,
+      "appraiser2": 3,
+      "abs_diff": 3
+    },
+    {
+      "item": "22",
+      "appraiser1": 4,
+      "appraiser2": 2,
+      "abs_diff": 2
+    }
+  ],
+  "note": "AGREE II manual recommends >=2 appraisers; kappa/ICC with n=23 items are item-level reliability, not a substitute for 4-appraiser scoring."
+}
