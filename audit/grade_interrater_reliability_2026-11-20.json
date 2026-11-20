@@ -1,0 +1,300 @@
+{
+  "status": "COMPLETE",
+  "n_outcomes": 9,
+  "primary": {
+    "final_certainty_exact_agreement": 1.0,
+    "final_certainty_agreement_count": "9/9",
+    "mean_certainty_gap_levels": 0.0,
+    "max_certainty_gap_levels": 0,
+    "spearman_rank_correlation": 1.0,
+    "per_domain_exact_agreement": {
+      "偏倚风险": 0.6667,
+      "不一致性": 1.0,
+      "间接性": 0.4444,
+      "不精确性": 0.6667,
+      "发表偏倚": 0.8889
+    },
+    "disagreement_count": 6
+  },
+  "descriptive_only_not_headline": {
+    "cohen_kappa_unweighted": 1.0,
+    "linear_weighted_kappa": 1.0,
+    "warning": "n=9 outcomes; with 8/9 in the same category kappa is uninformative in this near-constant distribution (expected agreement ~0.80; bootstrap interval degenerates to [1.00,1.00]); do not use kappa as the headline or as decoration. Report exact agreement + per-domain rates + disagreement list as the substantive result.",
+    "warning_revised_2026-11-20": "Text only: original warning said '95% CI wide' without any computed interval; corrected per expert-panel round 1 (M1). All numeric fields unchanged; kappa=1.0 under linear or quadratic weighting because appraisers agreed on all 9 outcomes."
+  },
+  "per_domain_detail": {
+    "偏倚风险": {
+      "appraiser1_col": "risk_of_bias",
+      "appraiser2_col": "appraiser2_rob",
+      "exact_agreement": 0.6666666666666666,
+      "appraiser1_values": [
+        "serious",
+        "serious",
+        "not serious",
+        "serious",
+        "serious",
+        "not assessable",
+        "not assessable",
+        "not assessable",
+        "serious"
+      ],
+      "appraiser2_values": [
+        "serious",
+        "serious",
+        "serious",
+        "serious",
+        "very serious",
+        "not assessable",
+        "not assessable",
+        "not assessable",
+        "not assessable"
+      ]
+    },
+    "不一致性": {
+      "appraiser1_col": "inconsistency",
+      "appraiser2_col": "appraiser2_inconsistency",
+      "exact_agreement": 1.0,
+      "appraiser1_values": [
+        "not assessable",
+        "not assessable",
+        "not assessable",
+        "not assessable",
+        "not assessable",
+        "not assessable",
+        "not assessable",
+        "not assessable",
+        "not assessable"
+      ],
+      "appraiser2_values": [
+        "not assessable",
+        "not assessable",
+        "not assessable",
+        "not assessable",
+        "not assessable",
+        "not assessable",
+        "not assessable",
+        "not assessable",
+        "not assessable"
+      ]
+    },
+    "间接性": {
+      "appraiser1_col": "indirectness",
+      "appraiser2_col": "appraiser2_indirectness",
+      "exact_agreement": 0.4444444444444444,
+      "appraiser1_values": [
+        "very serious",
+        "very serious",
+        "very serious",
+        "very serious",
+        "very serious",
+        "very serious",
+        "not assessable",
+        "not assessable",
+        "very serious"
+      ],
+      "appraiser2_values": [
+        "serious",
+        "serious",
+        "serious",
+        "serious",
+        "serious",
+        "very serious",
+        "not assessable",
+        "not assessable",
+        "very serious"
+      ]
+    },
+    "不精确性": {
+      "appraiser1_col": "imprecision",
+      "appraiser2_col": "appraiser2_imprecision",
+      "exact_agreement": 0.6666666666666666,
+      "appraiser1_values": [
+        "serious",
+        "very serious",
+        "not serious",
+        "serious",
+        "not serious",
+        "not assessable",
+        "not assessable",
+        "not assessable",
+        "not assessable"
+      ],
+      "appraiser2_values": [
+        "very serious",
+        "very serious",
+        "not serious",
+        "very serious",
+        "serious",
+        "not assessable",
+        "not assessable",
+        "not assessable",
+        "not assessable"
+      ]
+    },
+    "发表偏倚": {
+      "appraiser1_col": "publication_bias",
+      "appraiser2_col": "appraiser2_pubbias",
+      "exact_agreement": 0.8888888888888888,
+      "appraiser1_values": [
+        "not assessable",
+        "not assessable",
+        "not assessable",
+        "not assessable",
+        "not assessable",
+        "not assessable",
+        "not assessable",
+        "not assessable",
+        "not assessable"
+      ],
+      "appraiser2_values": [
+        "suspected",
+        "not assessable",
+        "not assessable",
+        "not assessable",
+        "not assessable",
+        "not assessable",
+        "not assessable",
+        "not assessable",
+        "not assessable"
+      ]
+    }
+  },
+  "disagreements": [
+    {
+      "rec_no": "R1",
+      "outcome": "肢体血供/创面相关指标",
+      "certainty_1": "Very low",
+      "certainty_2": "Very low",
+      "certainty_gap_levels": 0,
+      "domain_disagreements": {
+        "间接性": [
+          "very serious",
+          "serious"
+        ],
+        "不精确性": [
+          "serious",
+          "very serious"
+        ],
+        "发表偏倚": [
+          "not assessable",
+          "suspected"
+        ]
+      },
+      "consensus_certainty": "",
+      "consensus_note": ""
+    },
+    {
+      "rec_no": "R1",
+      "outcome": "保肢率(limb salvage)",
+      "certainty_1": "Very low",
+      "certainty_2": "Very low",
+      "certainty_gap_levels": 0,
+      "domain_disagreements": {
+        "间接性": [
+          "very serious",
+          "serious"
+        ]
+      },
+      "consensus_certainty": "",
+      "consensus_note": ""
+    },
+    {
+      "rec_no": "R2",
+      "outcome": "疼痛缓解≥50%(3月)",
+      "certainty_1": "Low",
+      "certainty_2": "Low",
+      "certainty_gap_levels": 0,
+      "domain_disagreements": {
+        "偏倚风险": [
+          "not serious",
+          "serious"
+        ],
+        "间接性": [
+          "very serious",
+          "serious"
+        ]
+      },
+      "consensus_certainty": "",
+      "consensus_note": ""
+    },
+    {
+      "rec_no": "R2",
+      "outcome": "疼痛缓解治疗成功(6月)",
+      "certainty_1": "Very low",
+      "certainty_2": "Very low",
+      "certainty_gap_levels": 0,
+      "domain_disagreements": {
+        "间接性": [
+          "very serious",
+          "serious"
+        ],
+        "不精确性": [
+          "serious",
+          "very serious"
+        ]
+      },
+      "consensus_certainty": "",
+      "consensus_note": ""
+    },
+    {
+      "rec_no": "R2",
+      "outcome": "长期疼痛缓解(24月)",
+      "certainty_1": "Very low",
+      "certainty_2": "Very low",
+      "certainty_gap_levels": 0,
+      "domain_disagreements": {
+        "偏倚风险": [
+          "serious",
+          "very serious"
+        ],
+        "间接性": [
+          "very serious",
+          "serious"
+        ],
+        "不精确性": [
+          "not serious",
+          "serious"
+        ]
+      },
+      "consensus_certainty": "",
+      "consensus_note": ""
+    },
+    {
+      "rec_no": "R6",
+      "outcome": "保肢率(核心随访指标)",
+      "certainty_1": "Very low",
+      "certainty_2": "Very low",
+      "certainty_gap_levels": 0,
+      "domain_disagreements": {
+        "偏倚风险": [
+          "serious",
+          "not assessable"
+        ]
+      },
+      "consensus_certainty": "",
+      "consensus_note": ""
+    }
+  ],
+  "appraiser1_final": [
+    "Very low",
+    "Very low",
+    "Low",
+    "Very low",
+    "Very low",
+    "Very low",
+    "Very low",
+    "Very low",
+    "Very low"
+  ],
+  "appraiser2_final": [
+    "Very low",
+    "Very low",
+    "Low",
+    "Very low",
+    "Very low",
+    "Very low",
+    "Very low",
+    "Very low",
+    "Very low"
+  ]
+}
