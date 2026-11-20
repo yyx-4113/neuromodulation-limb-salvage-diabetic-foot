@@ -108,7 +108,7 @@ In this cross-sectional methodological appraisal of a 2026 Chinese expert consen
 
 **Consent for publication**: Not applicable.
 
-**Data availability**: The appraisal dataset, scoring templates, extracted citation facts, reproducibility scripts and a MANIFEST with SHA-256 checksums are publicly available in the repository https://github.com/yyx-4113/neuromodulation-limb-salvage-diabetic-foot under release v1.0.0. File integrity can be verified against MANIFEST.sha256. All materials are publicly accessible; data are not distributed by the authors. A Zenodo archival DOI will be assigned on acceptance and added at proof stage.
+**Data availability**: The appraisal dataset, scoring templates, extracted citation facts, reproducibility scripts and a MANIFEST with SHA-256 checksums are publicly available in the repository https://github.com/yyx-4113/neuromodulation-limb-salvage-diabetic-foot under release v1.1.0. File integrity can be verified against MANIFEST.sha256. All materials are publicly accessible; data are not distributed by the authors. A Zenodo archival DOI will be assigned on acceptance and added at proof stage.
 
 **Competing interests**: The authors declare no competing interests.
 
