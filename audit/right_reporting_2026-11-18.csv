@@ -1,0 +1,36 @@
+﻿topic_no,section,topic,item_no,item_wording,status,rationale,evidence_locator
+1,Basic information,Title/subtitle,1a,Identify the report as a guideline,Yes,题名含'中国专家共识(2026版)'，期刊栏目'专家共识'。,标题@0-200
+1,Basic information,Title/subtitle,1b,Describe the year of publication,Yes,题名与页眉均含2026版/2026年。,标题@100; 页脚'2026年6月第23卷第3期'
+1,Basic information,Title/subtitle,1c,Describe the focus of the guideline,Yes,题名与摘要明确为SCS治疗DF(治疗/管理类)。,标题@0; 摘要@200
+2,Basic information,Executive summary,2,Provide a summary of the recommendations,Yes,摘要概述适应证、禁忌证、操作流程、疗效评估与随访，为推荐内容的概括。,摘要@~250-1200
+3,Basic information,Abbreviations/acronyms,3,Define new or key terms and list abbreviations,Yes,正文首次出现给出全称缩写：DF/SCS/VAS/TcPO2等；关键词列示。,"前言@~1850 '糖尿病足(diabetic foot,DF)'; 推荐2 VAS全称"
+4,Basic information,Corresponding developer,4,Identify at least 1 corresponding developer,Yes,列出共同通信：张建国、栾国明、鲍民。,@~9950 '共同通信:张建国、栾国明、鲍民'
+5,Background,Health problem,5,Describe basic epidemiology,Yes,前言报告DF发生率约8.6%、15-20%面临截肢、5年生存等流行病学数据。,前言@~2100 '全球糖尿病患者中DF发生率大约为8.6%'
+6,Background,Aim(s),6,Describe aims and specific objectives,Yes,前言明确旨在明确适应证/禁忌证/操作规范/疗效评估/随访，提升保肢率与生存质量。,前言@~2500
+7,Background,Target populations,7a,Describe primary population,Yes,1.3节明确DF成年患者尤其合并神经病理性疼痛/缺血性或难治性溃疡。,1.3@~3060
+7,Background,Target populations,7b,Describe subgroups given special consideration,Unclear,推荐对不耐受腔内治疗者、VAS≥5、TcPO2<40等亚组有区分，但未系统描述需特殊考虑的亚组。,推荐1@6116; 推荐3@~6900
+8,Background,End users and settings,8a,Describe intended primary users,Yes,1.3节明确各级医疗机构内分泌/血管外科/疼痛/康复科临床工作者。,1.3@~3060
+8,Background,End users and settings,8b,Describe the settings,Unclear,提到'各级医疗机构'但未具体描述应用场景(门诊/住院/介入室等)。,1.3@~3060
+9,Background,Guideline development groups,9a,Describe how contributors were selected and roles,Unclear,1.2列出工作组结构(指导委员会/秘书组/证据评价组/推荐共识组/外审组)与多学科构成，但未描述成员遴选方式及各角色职责细节。,1.2@~2870
+9,Background,Guideline development groups,9b,"List individuals with title, role, affiliation",Yes,列出牵头/执笔/共同通信及全体专家名单并附单位。,名单@~9930-12900
+10,Evidence,Health care questions,10a,State key questions in PICO or similar,Unclear,1.4称将28问结构化为PICO，但未在文中列出具体PICO问题清单。,1.4@~3350 '将入选问题结构化为人群、干预、对照、结局(PICO)循证问题'
+10,Evidence,Health care questions,10b,Indicate how outcomes were selected and sorted,Unclear,未报告结局指标的遴选与分级方法；4.2列疗效评估指标但无筛选过程。,4.2@~7500
+11,Evidence,Systematic reviews,11a,Indicate new vs existing systematic reviews,Unclear,1.5描述自行检索数据库，但未明确是否为专门新做系统评价，也未指明使用了哪些既有SR。,1.5@~3450
+11,Evidence,Systematic reviews,11b,"If existing SRs used, reference/assess/update them",Unclear,未明确使用既有系统评价，故此项无法判定适用性；引文中含SR但未报告其检索/筛选/RoB评估与更新。,1.5@~3450; 参考文献[3]为narrative review
+12,Evidence,Certainty assessment,12,Describe approach to assess certainty of body of evidence,Yes,1.2称遵循GRADE核心原则评级，1.6采用USPSTF净获益证据高/中/低分级并给出表1定义。,1.2@~2950; 1.6@~3900 表1
+13,Recommendations,Recommendations,13a,"Provide clear, precise, actionable recommendations",Yes,6条推荐含人群/阈值/干预，可操作。,推荐1-6
+13,Recommendations,Recommendations,13b,Separate recommendations for important subgroups,Unclear,按不耐受腔内治疗、VAS阈值、TcPO2等有区分，但未系统为重要亚组分别给出推荐。,推荐1/2/3
+13,Recommendations,Recommendations,13c,Indicate strength and certainty of recommendations,Yes,每条推荐附证据等级与推荐强度(高/A、高/A、高/B、中/B、中/C、中/D)。,推荐1-6末括号
+14,Recommendations,Rationale/explanation,14a,Describe whether values/preferences of target population considered,No,全文无患者价值观/偏好征询的描述；'患者意愿'仅为推荐强度C的通用定义，非本共识实施。RIGHT要求未考虑时给出解释，本文未解释。,全文0处'价值观/偏好'; '患者意愿'@4612为定义
+14,Recommendations,Rationale/explanation,14b,Describe whether cost/resource implications considered,No,全文无成本/资源利用考量；前言'社会医疗负担'为背景，非推荐制定时的资源评估，也未解释未考虑的原因。,全文0处'成本/费用/资源'
+14,Recommendations,Rationale/explanation,14c,"Describe other factors (equity, feasibility, acceptability)",Unclear,未系统描述公平性/可行性/可接受性等因素在推荐制定中的考量。,全文未见相关系统表述
+15,Recommendations,Evidence to decision,15,"Describe processes for making decisions (e.g., consensus definition, voting)",Unclear,1.4报告德尔菲法与Likert5分用于问题重要性筛选，但未说明推荐形成时的共识定义、投票规则或EtoD过程。,1.4@~3200
+16,Review & QA,External review,16,Indicate whether draft underwent independent review,Unclear,1.2提及'外审专家组'成员，但未独立说明草案外审是否执行、如何执行及意见处理。,1.2@~2880
+17,Review & QA,Quality assurance,17,Indicate whether guideline underwent quality assurance,Unclear,称遵循AGREE II/RIGHT/STAR等规范撰写，但未报告正式质量保证流程。,1.1@~2500
+18,Funding & COI,Funding source(s) and role(s),18a,Describe specific sources of funding,Yes,首页列基金项目：辽宁省科技计划联合计划重点研发项目(2025JH2/101800343)。,@1842
+18,Funding & COI,Funding source(s) and role(s),18b,Describe role of funders,No,仅列资助来源，未说明资助方在各阶段及传播实施中的角色。,@1842
+19,Funding & COI,Declaration/management of interests,19a,Describe what types of conflicts were relevant,Unclear,仅称'所有成员签署利益冲突声明'及文末'均声明不存在利益冲突'，未区分财务/非财务冲突类型。,1.2@~3044; 文末@12760
+19,Funding & COI,Declaration/management of interests,19b,Describe how conflicts evaluated/managed and access,Unclear,未说明冲突如何评估与管理、使用者如何获取声明。,文末@12760
+20,Other information,Access,20,Describe where guideline and appendices can be accessed,Unclear,给出期刊/DOI/ISSN/文章编号，可定位文献；但未说明附录/相关文件的获取途径(本文似无附录)。,标题区DOI@0; 文章编号@~700
+21,Other information,Suggestions for further research,21,Describe gaps in evidence/suggestions for future research,Unclear,未见明确的研究空白与未来研究建议章节；正文有机制探讨但不构成研究议程。,全文未见专门段落
+22,Other information,Limitations,22,Describe limitations of the guideline development process,No,全文无局限性章节，未披露如患者价值观未征询、开发组构成局限等及其对推荐效度的影响。,全文'局限'0命中
