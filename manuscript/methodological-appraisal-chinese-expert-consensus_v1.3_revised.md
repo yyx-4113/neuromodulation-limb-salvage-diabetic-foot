@@ -118,7 +118,7 @@ AGREE II: Appraisal of Guidelines for Research and Evaluation II; DF: diabetic f
 
 **Consent for publication**: Not applicable.
 
-**Data availability**: The appraisal dataset, scoring templates, extracted citation facts, reproducibility scripts and a MANIFEST with SHA-256 checksums are publicly available in the repository https://github.com/yyx-4113/neuromodulation-limb-salvage-diabetic-foot under release v1.3.0. File integrity can be verified against MANIFEST.sha256. All materials are publicly accessible; data are not distributed by the authors. A Zenodo archival DOI will be assigned on acceptance and added at proof stage.
+**Data availability**: The appraisal dataset, scoring templates, extracted citation facts, reproducibility scripts and a MANIFEST with SHA-256 checksums are publicly available in the repository https://github.com/yyx-4113/neuromodulation-limb-salvage-diabetic-foot under release v1.3.0. File integrity can be verified against MANIFEST.sha256. All materials are publicly accessible; data are not distributed by the authors. A Zenodo archival copy of this release is available at doi:10.5281/zenodo.24461453.
 
 **Competing interests**: The authors declare no competing interests.
 
