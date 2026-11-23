@@ -2,7 +2,7 @@
 
 This repository contains the reproducibility package for the manuscript
 "Methodological appraisal of a Chinese expert consensus on spinal cord stimulation for diabetic foot",
-submitted to *BMC Health Services Research*.
+submitted to *BMC Health Services Research*. This is release v1.3.0 (2026-11-23). This is release v1.3.0 (2026-11-23).
 
 It is a **secondary research** project: one published clinical practice guideline was appraised with
 AGREE II, RIGHT and a GRADE evidence profile reconstructed from the guideline's own cited literature.
@@ -12,8 +12,9 @@ No human participants, samples or identifiable data were involved.
 
 | Path | Contents |
 |---|---|
-| `manuscript/methodological-appraisal-chinese-expert-consensus_v1.0_clean.md` | Clean manuscript source (no internal notes) |
-| `manuscript/methodological-appraisal-chinese-expert-consensus_v1.0_submit.md` | Submission source with in-text citations converted to continuous journal numbering |
+| `manuscript/methodological-appraisal-chinese-expert-consensus_v1.3_revised.md` | **Final submitted manuscript source** (v1.3, 2026-11-23) |
+| `manuscript/methodological-appraisal-chinese-expert-consensus_v1.0_clean.md` | Earlier clean manuscript source (superseded by v1.3_revised) |
+| `manuscript/methodological-appraisal-chinese-expert-consensus_v1.0_submit.md` | Earlier submission source (superseded) |
 | `submission/methodological-appraisal-chinese-expert-consensus_v1.0_submission.docx` | Typeset submission docx (structured abstract, 4 tables, supplementary list) |
 | `submission/abstract_for_submission_v0.2.md` | Four-paragraph structured abstract (323 words) |
 | `submission/manuscript_references_final_2026-11-20.csv` | Final 13-reference journal list with consensus-label mapping |
@@ -73,11 +74,13 @@ The gate expectations are derived from the product files; hard-coded expected nu
 
 ## Data availability
 
-All appraisal data, scripts and checksums are publicly available in this repository under a version tag.
+All appraisal data, scripts and checksums are publicly available in this repository under release v1.3.0.
 No "available on request" statement is used. Zenodo archival DOI: to be assigned on acceptance.
 
-## Author
+## Authors
 
 Yongxin Yang, B.M. — The Second Affiliated Hospital of Fujian University of Traditional Chinese
-Medicine, Fuzhou, Fujian 350003, China. ORCID 0009-0004-9698-6552.
-GitHub (research): `yyx-4113`. No postgraduate degree is claimed.
+Medicine, Fuzhou, Fujian 350003, China. ORCID 0009-0004-9698-6552. GitHub (research): `yyx-4113`.
+Jie Hu — The Second Affiliated Hospital of Fujian University of Traditional Chinese Medicine, Fuzhou,
+Fujian 350003, China.
+No postgraduate degree is claimed by any author.
