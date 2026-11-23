@@ -42,7 +42,7 @@ We therefore appraised the 2026 Chinese SCS-for-DF consensus with three objectiv
 
 ### 2.1 Study design and object
 
-This was a cross-sectional methodological evaluation of one published clinical practice guideline. The object was the *Chinese expert consensus on spinal cord stimulation for diabetic foot (2026 edition)*, published in *Clinical Journal of Neurological Surgery* 2026;23(3):241–247, DOI 10.3969/j.issn.1672-7770.2026.03.001. The full typeset PDF was obtained and converted to normalised text (40,081 characters). Because the study evaluated a published document and its cited literature and involved no human participants, samples or identifiable data, institutional review board approval was not applicable.
+This was a cross-sectional methodological evaluation of one published clinical practice guideline. The object was the *Chinese expert consensus on spinal cord stimulation for diabetic foot (2026 edition)*, published in *Clinical Journal of Neurological Surgery* 2026;23(3):241–247, DOI 10.3969/j.issn.1672-7770.2026.03.001. The full typeset PDF was obtained and converted to normalised text (40,081 bytes). Because the study evaluated a published document and its cited literature and involved no human participants, samples or identifiable data, institutional review board approval was not applicable.
 
 ### 2.2 Instruments and appraisal procedures
 
@@ -118,7 +118,7 @@ AGREE II: Appraisal of Guidelines for Research and Evaluation II; DF: diabetic f
 
 **Consent for publication**: Not applicable.
 
-**Data availability**: The appraisal dataset, scoring templates, extracted citation facts, reproducibility scripts and a MANIFEST with SHA-256 checksums are publicly available in the repository https://github.com/yyx-4113/neuromodulation-limb-salvage-diabetic-foot under release v1.2.0. File integrity can be verified against MANIFEST.sha256. All materials are publicly accessible; data are not distributed by the authors. A Zenodo archival DOI will be assigned on acceptance and added at proof stage.
+**Data availability**: The appraisal dataset, scoring templates, extracted citation facts, reproducibility scripts and a MANIFEST with SHA-256 checksums are publicly available in the repository https://github.com/yyx-4113/neuromodulation-limb-salvage-diabetic-foot under release v1.3.0. File integrity can be verified against MANIFEST.sha256. All materials are publicly accessible; data are not distributed by the authors. A Zenodo archival DOI will be assigned on acceptance and added at proof stage.
 
 **Competing interests**: The authors declare no competing interests.
 
