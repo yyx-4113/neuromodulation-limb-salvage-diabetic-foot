@@ -2,7 +2,7 @@
 
 This repository contains the reproducibility package for the manuscript
 "Methodological appraisal of a Chinese expert consensus on spinal cord stimulation for diabetic foot",
-submitted to *BMC Health Services Research*. This is release v1.3.0 (2026-11-23). This is release v1.3.0 (2026-11-23).
+submitted to *BMC Health Services Research*. This is release v1.4.0 (2026-11-23). Release v1.4.0 adds only the Zenodo DOI citation; release v1.3.0 remains the scientific snapshot archived at Zenodo.
 
 It is a **secondary research** project: one published clinical practice guideline was appraised with
 AGREE II, RIGHT and a GRADE evidence profile reconstructed from the guideline's own cited literature.
@@ -12,7 +12,7 @@ No human participants, samples or identifiable data were involved.
 
 | Path | Contents |
 |---|---|
-| `manuscript/methodological-appraisal-chinese-expert-consensus_v1.3_revised.md` | **Final submitted manuscript source** (v1.3, 2026-11-23) |
+| `manuscript/methodological-appraisal-chinese-expert-consensus_v1.3_revised.md` | **Final submitted manuscript source** (v1.3 content + v1.4.0 DOI backfill, 2026-11-23) |
 | `manuscript/methodological-appraisal-chinese-expert-consensus_v1.0_clean.md` | Earlier clean manuscript source (superseded by v1.3_revised) |
 | `manuscript/methodological-appraisal-chinese-expert-consensus_v1.0_submit.md` | Earlier submission source (superseded) |
 | `submission/methodological-appraisal-chinese-expert-consensus_v1.0_submission.docx` | Typeset submission docx (structured abstract, 4 tables, supplementary list) |
@@ -75,7 +75,8 @@ The gate expectations are derived from the product files; hard-coded expected nu
 ## Data availability
 
 All appraisal data, scripts and checksums are publicly available in this repository under release v1.3.0.
-No "available on request" statement is used. Zenodo archival DOI: to be assigned on acceptance.
+A Zenodo archival copy of that release is available at doi:10.5281/zenodo.24461453 (https://doi.org/10.5281/zenodo.24461453).
+No "available on request" statement is used.
 
 ## Authors
 
